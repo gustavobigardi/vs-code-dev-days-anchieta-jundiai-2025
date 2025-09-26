@@ -13,7 +13,7 @@ Acesse este conteúdo via QRCode e também apoiem nossas inciativas, deixando um
 ## Instrutores (links com direcionamento para o LinkedIn):
 - Gustavo Bigardi - [LinkedIn](https://www.linkedin.com/in/gbbigardi/) :: [GitHub](https://github.com/gustavobigardi/)
 - Elton Bordim - [LinkedIn](https://www.linkedin.com/in/elton-bordim/) :: [GitHub](https://github.com/ebordim)
-- Laura de Alencar - [LinkedIn](https://www.linkedin.com/in/lauralencarr/)
+- Laura de Alencar - [LinkedIn](https://www.linkedin.com/in/lauralencarr/) :: [GitHub](https://github.com/lauralencarr)
 
 
 ## Referências utilizadas:
@@ -32,7 +32,7 @@ Acesse este conteúdo via QRCode e também apoiem nossas inciativas, deixando um
 |----|----------------------------------------------------|--------------|-----------------------------------------------------------------------------|--------------------------|
 | 01 | Técnicas Essenciais para uso do GitHub Copilot no VS Code | 30–45 minutes| Comece a utilizar o GitHub Copilot no VS Code.                                | [**Slides**](/slides/VSCode_GitHubCopilot%20-%20pt-BR.pdf)            |
 | 02 | Community Session                                 | 30–45 minutes| Aprenda a dar ao GitHub Copilot mais ferramentas para expandir os recursos do seu fluxo de trabalho de desenvolvimento com MCP. | [**Slides**](/slides/VSCode_GitHubCopilot%20-%20MCP.pdf)  |
-| 03 | Workshop                                          | 60 minutes   | Use o GitHub Copilot, via modo agentic, para trabalhar com C#.                             | [**Instruções**](https://github.com/DotNetSP/integrate-mcp-with-copilot) |
+| 03 | Workshop                                          | 60 minutes   | Use o GitHub Copilot, via modo agentic, para trabalhar com C#.                             | [**Instruções**](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-GitHub-Copilot-with-CSharp)|
 
 
 ## Pré-requisitos
